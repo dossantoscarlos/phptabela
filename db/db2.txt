@@ -1,0 +1,15 @@
+7:00,aula1,aula,aula3,aula4,aula5,vazio
+7:00,aula1,aula,aula3,aula4,aula5,vazio
+7:00,aula1,aula,aula3,aula4,aula5,vazio
+7:00,aula1,aula,aula3,aula4,aula5,vazio
+7:00,aula1,aula,aula3,aula4,aula5,vazio
+7:00,aula1,aula,aula3,aula4,aula5,vazio
+7:00,aula1,aula,aula3,aula4,aula5,vazio
+7:00,aula1,aula,aula3,aula4,aula5,vazio
+7:00,aula1,aula,aula3,aula4,aula5,vazio
+7:00,aula1,aula,aula3,aula4,aula5,vazio
+7:00,aula1,aula,aula3,aula4,aula5,vazio
+7:00,aula1,aula,aula3,aula4,aula5,vazio
+7:00,aula1,aula,aula3,aula4,aula5,vazio
+7:00,aula1,aula,aula3,aula4,aula5,vazio
+7:00,aula1,aula,aula3,aula4,aula5,vazio
